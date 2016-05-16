@@ -1,0 +1,8 @@
+Name:
+Lastname:
+City:
+First Programming Language:
+Favourite Programming Language:
+Favourite Hobby:
+
+
